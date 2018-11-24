@@ -1,4 +1,6 @@
 Hello!
+How do you do?
+
 This is next line for my first file.
 Another text for my file.
 
