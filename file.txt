@@ -1,6 +1,6 @@
 Hello!
 How do you do?
-
+I want it all!
 This is next line for my first file.
 Another text for my file.
 
